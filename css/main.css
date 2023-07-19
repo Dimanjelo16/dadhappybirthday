@@ -74,6 +74,8 @@ a{
   .container-gift{
     flex-direction: column;
   }
+  .btn{
+    width: 150px;
 }
 .main{
   display: flex;
